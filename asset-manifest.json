@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wheaterappreactjs/static/css/main.60bc2a4a.css",
+    "main.js": "/wheaterappreactjs/static/js/main.db7aca7e.js",
+    "static/media/sunset.jpg": "/wheaterappreactjs/static/media/sunset.9d4b1b14d1273595564a.jpg",
+    "index.html": "/wheaterappreactjs/index.html",
+    "main.60bc2a4a.css.map": "/wheaterappreactjs/static/css/main.60bc2a4a.css.map",
+    "main.db7aca7e.js.map": "/wheaterappreactjs/static/js/main.db7aca7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60bc2a4a.css",
+    "static/js/main.db7aca7e.js"
+  ]
+}
